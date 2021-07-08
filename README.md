@@ -28,12 +28,14 @@
 <img align="left" alt="WordPress" width="35px" src="https://icons.iconarchive.com/icons/martz90/circle/512/wordpress-icon.png" />
 <img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="35px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
-<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Firebase" width="35px" src="https://www.pngrepo.com/png/303670/512/firebase-1-logo.png" />
+<img align="left" alt="Python" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" />
+<img align="left" alt="MongoDB" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaUAtjBiHmB3iG2r0VSlcuzY2wLKxdntHclP1yvJt7KSXWTpfUoV-x4VNo&s=10" />
+
+<img align="left" alt="GitHub" width="40px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="PHP" width="35px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFbkm1ijivbHl-q10LsBMauExV7_7Mmj677Q&usqp=CAU" />
+<img align="left" alt="ExpressJs" width="45px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNxVppNR4SlDJb-K_6UwgVXe3qFZYh7HVrZA&usqp=CAU" />
 
 [website]: https://ranaarju.xyz
 
