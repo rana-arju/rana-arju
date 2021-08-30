@@ -1,50 +1,38 @@
-### Hi there, I'm [Rana Arju][website] 👋
+<h1 align="center">Hi 👋, I'm Rana Arju</h1>
+<h3 align="center">I'm a Student/Learner and Developer!!</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rana-arju&label=Profile%20views&color=0e75b6&style=flat" alt="rana-arju" /> </p>
 
-## I'm a Student/Learner and Developer!!
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rana-arju" alt="rana-arju" /></a> </p>
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love pet birds!
+<p align="left"> <a href="https://twitter.com/ranaarju2" target="blank"><img src="https://img.shields.io/twitter/follow/ranaarju2?logo=twitter&style=for-the-badge" alt="ranaarju2" /></a> </p>
 
-### Connect with me:
+- 🌱 I’m currently learning **WP Theme and Plugin Development,Javascript and Python**
 
-[<img align="left" alt="ranaarju.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="TechDictionary | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="RanaArju2 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="RanaArju | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="rana_arju2 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 👨‍💻 All of my projects are available at [https://ranaarju.xyz](https://ranaarju.xyz)
 
-<br />
+- 💬 Ask me about **Theme Development and Javascript**
 
-### Languages and Tools:
+- 📫 How to reach me **arjurana20@gmail.com**
 
-<img align="left" alt="Visual Studio Code" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="WordPress" width="35px" src="https://icons.iconarchive.com/icons/martz90/circle/512/wordpress-icon.png" />
-<img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Firebase" width="35px" src="https://www.pngrepo.com/png/303670/512/firebase-1-logo.png" />
-<img align="left" alt="Python" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" />
-<img align="left" alt="MongoDB" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaUAtjBiHmB3iG2r0VSlcuzY2wLKxdntHclP1yvJt7KSXWTpfUoV-x4VNo&s=10" />
+- 📄 Know about my experiences [https://ranaarju.xyz](https://ranaarju.xyz)
 
-<img align="left" alt="GitHub" width="40px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
-<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="PHP" width="35px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFbkm1ijivbHl-q10LsBMauExV7_7Mmj677Q&usqp=CAU" />
-<img align="left" alt="ExpressJs" width="45px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNxVppNR4SlDJb-K_6UwgVXe3qFZYh7HVrZA&usqp=CAU" />
+- ⚡ Fun fact **I Want To More Love Programming Languages**
 
-[website]: https://ranaarju.xyz
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ranaarju2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranaarju2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rana-arju-b34877217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rana-arju-b34877217" height="30" width="40" /></a>
+<a href="https://fb.com/ranaarju2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ranaarju2002" height="30" width="40" /></a>
+<a href="https://instagram.com/rana_arju2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rana_arju2" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/techdictionary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techdictionary" height="30" width="40" /></a>
+</p>
 
-[twitter]: https://twitter.com/RanaArju2
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-[youtube]: https://youtube.com/TechDictionary
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rana-arju&show_icons=true&locale=en&layout=compact" alt="rana-arju" /></p>
 
-[instagram]: https://instagram.com/rana_arju2
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rana-arju&show_icons=true&locale=en" alt="rana-arju" /></p>
 
-[linkedin]: https://linkedin.com/in/Ranaarju
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rana-arju&" alt="rana-arju" /></p>
