@@ -1,3 +1,4 @@
+![alt text](https://github.com/rana-arju/rana-arju/blob/main/rana%20arju.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Rana Arju</h1>
