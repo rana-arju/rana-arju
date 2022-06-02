@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://twitter.com/ranaarju2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranaarju2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rana-arju-b34877217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rana-arju-b34877217" height="30" width="40" /></a>
-<a href="https://fb.com/ranaarju2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ranaarju2002" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ranaarju1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ranaarju2002" height="30" width="40" /></a>
 <a href="https://instagram.com/rana_arju2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rana_arju2" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/techdictionary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techdictionary" height="30" width="40" /></a>
 </p>
