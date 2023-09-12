@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **WP Theme and Plugin Development,Javascript and Python**
 
-- 👨‍💻 All of my projects are available at [https://ranaarju.com](https://ranaarju.com)
+- 👨‍💻 All of my projects are available at [https://rana-arju.vercel.app/](https://rana-arju.vercel.app/)
 
 - 💬 Ask me about **Theme Development and Javascript**
 
 - 📫 How to reach me **arjurana20@gmail.com**
 
-- 📄 Know about my experiences [https://ranaarju.com](https://ranaarju.com)
+- 📄 Know about my experiences [https://rana-arju.vercel.app/](https://rana-arju.vercel.app/)
 
 - ⚡ Fun fact **I Want To More Love Programming Languages**
 
