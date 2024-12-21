@@ -1,4 +1,5 @@
 ![Rana Arju](https://github.com/rana-arju/rana-arju/blob/main/rana%20(1).gif)
+
 <h1 align="center">Hi 👋, I'm Rana Arju</h1>
 <h3 align="center">I'm a Student/Learner and Full Stack Developer!!</h3>
 
@@ -10,7 +11,7 @@
 
 - 🔭 I’m currently working on **Full Stack Project**
 
-- 🌱 I’m currently learning many things **related to MERN Stack web development**
+- 🌱 I’m currently learning many things related **Docker, Postgresql and DSA**
 
 - 👨‍💻 All of my projects are available at [https://rana-arju.vercel.app/](https://rana-arju.vercel.app/)
 
@@ -39,3 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rana-arju&show_icons=true&locale=en" alt="rana-arju" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rana-arju&" alt="rana-arju" /></p>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/rana-arju?theme=unicorn&font=Mada&ext=heatmap) 
