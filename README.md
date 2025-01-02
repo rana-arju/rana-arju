@@ -1,4 +1,4 @@
-![Rana Arju](https://github.com/rana-arju/rana-arju/blob/main/rana%20(1).gif)
+![Rana Arju](https://github.com/rana-arju/rana-arju/blob/main/banner.gif)
 
 <h1 align="center">Hi 👋, I'm Rana Arju</h1>
 <h3 align="center">I'm a Student/Learner and Full Stack Developer!!</h3>
