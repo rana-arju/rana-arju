@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on **Blood Donation Full Stack Project**
 
-- 🌱 I’m currently learning many things related **Docker, Postgresql and DSA**
+- 🌱 I’m currently learning many things related **Nest JS, System design**
 
 - 👨‍💻 All of my projects are available at [https://rana-arju.vercel.app/](https://rana-arju.vercel.app/)
 
-- 💬 Ask me about **React js, TypeScript, MongoDD**
+- 💬 Ask me about **React js, TypeScript, MongoDB**
 
 - 📫 How to reach me **rana.arju20@gmail.com**
 
