@@ -1,7 +1,7 @@
 ![Rana Arju](https://github.com/rana-arju/rana-arju/blob/main/banner.gif)
 
 <h1 align="center">Hi 👋, I'm Rana Arju</h1>
-<h3 align="center">I'm a Student/Learner and Full Stack Developer!!</h3>
+<h3 align="center">I'm a AI and Full Stack Web Developer!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rana-arju&label=Profile%20views&color=0e75b6&style=flat" alt="rana-arju" /> </p>
 
