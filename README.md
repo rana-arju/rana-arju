@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/ranaarju3" target="blank"><img src="https://img.shields.io/twitter/follow/ranaarju3?logo=twitter&style=for-the-badge" alt="ranaarju3" /></a> </p>
 
-- 🔭 I’m currently working on **Blood Donation Full Stack Project**
+- 🔭 I’m currently working on **AI, LLM, Fine Tuning**
 
-- 🌱 I’m currently learning many things related **Nest JS, System design**
+- 🌱 I’m currently learning many things related **Prompt engineering, FastAPI**
 
 - 👨‍💻 All of my projects are available at [https://rana-arju.vercel.app/](https://rana-arju.vercel.app/)
 
